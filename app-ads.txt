@@ -1,3 +1,4 @@
 google.com, pub-8818926149887429, DIRECT, f08c47fec0942fa0
 facebook.com, 852044315814329, DIRECT, c3e20eee3f780d68
+facebook.com, 424471606516418, DIRECT, c3e20eee3f780d68
 pangleglobal.com,5004532, DIRECT
